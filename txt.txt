@@ -1,0 +1,16 @@
+Bienvenido al Adivinador de personajes!
+Intentare adivinar en que personaje estas pensando
+Veamos si puedo hacerlo...
+1. Brad Pitt
+2. Diego Peretti
+3. Goku
+4. Minnie Mouse
+5. Paula Pareto
+6. Leo Messi
+7. Scarlet Johannsen
+8. Mirtha Legrand
+9. Pikachu
+10. Mafalda
+Comenzamos??
+S (si) / N (no) Pulse "ESC" para salir.
+#
